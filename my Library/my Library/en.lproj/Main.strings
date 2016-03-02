@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "Start Scanning"; ObjectID = "2Ks-Jc-1f9"; */
+"2Ks-Jc-1f9.normalTitle" = "Start Scanning";
+
+/* Class = "UILabel"; text = "Barcode String"; ObjectID = "4ER-lZ-5Y8"; */
+"4ER-lZ-5Y8.text" = "Barcode String";
+
+/* Class = "UITableViewSection"; headerTitle = "MyLibrary"; ObjectID = "5LL-rM-aiN"; */
+"5LL-rM-aiN.headerTitle" = "MyLibrary";
+
+/* Class = "UIButton"; normalTitle = "add Book"; ObjectID = "68U-u0-ack"; */
+"68U-u0-ack.normalTitle" = "add Book";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "9hd-wN-iy4"; */
+"9hd-wN-iy4.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "My Books"; ObjectID = "Q1a-vJ-Xfu"; */
+"Q1a-vJ-Xfu.text" = "My Books";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "TrZ-0c-NSH"; */
+"TrZ-0c-NSH.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "XZ1-Rx-od2"; */
+"XZ1-Rx-od2.text" = "Title";
+
+/* Class = "UITableViewController"; title = "MyBooksViewController"; ObjectID = "YSb-Zi-BdG"; */
+"YSb-Zi-BdG.title" = "MyBooksViewController";
+
+/* Class = "UIViewController"; title = "BookDetail"; ObjectID = "amJ-LB-Umu"; */
+"amJ-LB-Umu.title" = "BookDetail";
+
+/* Class = "UILabel"; text = "Add Book"; ObjectID = "atE-pJ-kak"; */
+"atE-pJ-kak.text" = "Add Book";
+
+/* Class = "UIBarButtonItem"; title = "back"; ObjectID = "dH5-iR-jkn"; */
+"dH5-iR-jkn.title" = "back";
+
+/* Class = "UILabel"; text = "Author"; ObjectID = "fSq-rV-QFL"; */
+"fSq-rV-QFL.text" = "Author";
+
+/* Class = "UINavigationItem"; title = "My Books"; ObjectID = "i9x-to-tz3"; */
+"i9x-to-tz3.title" = "My Books";
+
+/* Class = "UITableViewController"; title = "MenueTableViewController"; ObjectID = "m9K-iO-WvG"; */
+"m9K-iO-WvG.title" = "MenueTableViewController";
+
+/* Class = "UILabel"; text = "Options"; ObjectID = "oxy-Hu-MGN"; */
+"oxy-Hu-MGN.text" = "Options";
+
+/* Class = "UILabel"; text = "Titlename"; ObjectID = "tFk-g3-UhJ"; */
+"tFk-g3-UhJ.text" = "Titlename";
+
+/* Class = "UILabel"; text = "Authorname"; ObjectID = "tTN-xp-eDx"; */
+"tTN-xp-eDx.text" = "Authorname";
+
+/* Class = "UINavigationItem"; title = "Scanning"; ObjectID = "y7i-db-jbI"; */
+"y7i-db-jbI.title" = "Scanning";
